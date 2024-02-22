@@ -5,7 +5,6 @@ import Loader from "../../components/Shared/Loader";
 import { Helmet } from "react-helmet-async";
 import Header from "../../components/RoomDetails/Header";
 import RoomInfo from "../../components/RoomDetails/RoomInfo";
-import DateCalendar from "../../components/RoomDetails/Calendar";
 import RoomReservation from "../../components/RoomDetails/RoomReservation";
 
 const RoomDetails = () => {
